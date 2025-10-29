@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Projects\\Restaurants\\Restaurants.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B2D4474-6725-4809-9577-E19DDC81C02F}|Restaurants.Application\\Restaurants.Application.csproj|c:\\projects\\restaurants\\restaurants.api\\restaurants.application\\dishes\\queries\\getdishbyidforrestaurant\\getdishbyidforrestaurantquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B2D4474-6725-4809-9577-E19DDC81C02F}|Restaurants.Application\\Restaurants.Application.csproj|solutionrelative:restaurants.application\\dishes\\queries\\getdishbyidforrestaurant\\getdishbyidforrestaurantquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B6758B5-E631-4E03-B4B5-CC88F52DB555}|Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj|c:\\projects\\restaurants\\restaurants.api\\restaurants.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6758B5-E631-4E03-B4B5-CC88F52DB555}|Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj|solutionrelative:restaurants.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B2D4474-6725-4809-9577-E19DDC81C02F}|Restaurants.Application\\Restaurants.Application.csproj|c:\\projects\\restaurants\\restaurants.api\\restaurants.application\\dishes\\queries\\getdishbyidforrestaurant\\getdishbyidforrestaurantqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B2D4474-6725-4809-9577-E19DDC81C02F}|Restaurants.Application\\Restaurants.Application.csproj|solutionrelative:restaurants.application\\dishes\\queries\\getdishbyidforrestaurant\\getdishbyidforrestaurantqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B6758B5-E631-4E03-B4B5-CC88F52DB555}|Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj|c:\\projects\\restaurants\\restaurants.api\\restaurants.infrastructure\\security\\claimsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6758B5-E631-4E03-B4B5-CC88F52DB555}|Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj|solutionrelative:restaurants.infrastructure\\security\\claimsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8A65E72-7E57-4E87-8416-BAFAAA16251F}|Restaurants.API\\Restaurants.API.csproj|c:\\projects\\restaurants\\restaurants.api\\restaurants.api\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8A65E72-7E57-4E87-8416-BAFAAA16251F}|Restaurants.API\\Restaurants.API.csproj|solutionrelative:restaurants.api\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B2D4474-6725-4809-9577-E19DDC81C02F}|Restaurants.Application\\Restaurants.Application.csproj|c:\\projects\\restaurants\\restaurants.api\\restaurants.application\\dishes\\queries\\getdishesforrestaurant\\getdishesforrestaurantqueryhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B2D4474-6725-4809-9577-E19DDC81C02F}|Restaurants.Application\\Restaurants.Application.csproj|solutionrelative:restaurants.application\\dishes\\queries\\getdishesforrestaurant\\getdishesforrestaurantqueryhanlder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B2D4474-6725-4809-9577-E19DDC81C02F}|Restaurants.Application\\Restaurants.Application.csproj|c:\\projects\\restaurants\\restaurants.api\\restaurants.application\\dishes\\queries\\getdishesforrestaurant\\getdishesforrestaurantquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B2D4474-6725-4809-9577-E19DDC81C02F}|Restaurants.Application\\Restaurants.Application.csproj|solutionrelative:restaurants.application\\dishes\\queries\\getdishesforrestaurant\\getdishesforrestaurantquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3628EF1C-0472-41A4-AF71-B738EFC0A41A}|Restaurants.Domain\\Restaurants.Domain.csproj|c:\\projects\\restaurants\\restaurants.api\\restaurants.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3628EF1C-0472-41A4-AF71-B738EFC0A41A}|Restaurants.Domain\\Restaurants.Domain.csproj|solutionrelative:restaurants.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetDishByIdForRestaurantQueryHandler.cs",
-              "DocumentMoniker": "C:\\Projects\\Restaurants\\Restaurants.API\\Restaurants.Application\\Dishes\\Queries\\GetDishByIdForRestaurant\\GetDishByIdForRestaurantQueryHandler.cs",
-              "RelativeDocumentMoniker": "Restaurants.Application\\Dishes\\Queries\\GetDishByIdForRestaurant\\GetDishByIdForRestaurantQueryHandler.cs",
-              "ToolTip": "C:\\Projects\\Restaurants\\Restaurants.API\\Restaurants.Application\\Dishes\\Queries\\GetDishByIdForRestaurant\\GetDishByIdForRestaurantQueryHandler.cs",
-              "RelativeToolTip": "Restaurants.Application\\Dishes\\Queries\\GetDishByIdForRestaurant\\GetDishByIdForRestaurantQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T15:05:52.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GetDishByIdForRestaurantQuery.cs",
-              "DocumentMoniker": "C:\\Projects\\Restaurants\\Restaurants.API\\Restaurants.Application\\Dishes\\Queries\\GetDishByIdForRestaurant\\GetDishByIdForRestaurantQuery.cs",
-              "RelativeDocumentMoniker": "Restaurants.Application\\Dishes\\Queries\\GetDishByIdForRestaurant\\GetDishByIdForRestaurantQuery.cs",
-              "ToolTip": "C:\\Projects\\Restaurants\\Restaurants.API\\Restaurants.Application\\Dishes\\Queries\\GetDishByIdForRestaurant\\GetDishByIdForRestaurantQuery.cs",
-              "RelativeToolTip": "Restaurants.Application\\Dishes\\Queries\\GetDishByIdForRestaurant\\GetDishByIdForRestaurantQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABUAAAAAAAAAA==",
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\Restaurants\\Restaurants.API\\Restaurants.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Restaurants.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Projects\\Restaurants\\Restaurants.API\\Restaurants.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Restaurants.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAACGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T15:03:43.755Z",
+              "WhenOpened": "2025-10-29T19:15:25.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetDishesForRestaurantQueryHanlder.cs",
-              "DocumentMoniker": "C:\\Projects\\Restaurants\\Restaurants.API\\Restaurants.Application\\Dishes\\Queries\\GetDishesForRestaurant\\GetDishesForRestaurantQueryHanlder.cs",
-              "RelativeDocumentMoniker": "Restaurants.Application\\Dishes\\Queries\\GetDishesForRestaurant\\GetDishesForRestaurantQueryHanlder.cs",
-              "ToolTip": "C:\\Projects\\Restaurants\\Restaurants.API\\Restaurants.Application\\Dishes\\Queries\\GetDishesForRestaurant\\GetDishesForRestaurantQueryHanlder.cs",
-              "RelativeToolTip": "Restaurants.Application\\Dishes\\Queries\\GetDishesForRestaurant\\GetDishesForRestaurantQueryHanlder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ClaimsFactory.cs",
+              "DocumentMoniker": "C:\\Projects\\Restaurants\\Restaurants.API\\Restaurants.Infrastructure\\Security\\ClaimsFactory.cs",
+              "RelativeDocumentMoniker": "Restaurants.Infrastructure\\Security\\ClaimsFactory.cs",
+              "ToolTip": "C:\\Projects\\Restaurants\\Restaurants.API\\Restaurants.Infrastructure\\Security\\ClaimsFactory.cs",
+              "RelativeToolTip": "Restaurants.Infrastructure\\Security\\ClaimsFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T14:55:40.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetDishesForRestaurantQuery.cs",
-              "DocumentMoniker": "C:\\Projects\\Restaurants\\Restaurants.API\\Restaurants.Application\\Dishes\\Queries\\GetDishesForRestaurant\\GetDishesForRestaurantQuery.cs",
-              "RelativeDocumentMoniker": "Restaurants.Application\\Dishes\\Queries\\GetDishesForRestaurant\\GetDishesForRestaurantQuery.cs",
-              "ToolTip": "C:\\Projects\\Restaurants\\Restaurants.API\\Restaurants.Application\\Dishes\\Queries\\GetDishesForRestaurant\\GetDishesForRestaurantQuery.cs",
-              "RelativeToolTip": "Restaurants.Application\\Dishes\\Queries\\GetDishesForRestaurant\\GetDishesForRestaurantQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T14:54:32.348Z",
+              "WhenOpened": "2025-10-29T19:11:12.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DishesController.cs",
-              "DocumentMoniker": "C:\\Projects\\Restaurants\\Restaurants.API\\Restaurants.API\\Controllers\\DishesController.cs",
-              "RelativeDocumentMoniker": "Restaurants.API\\Controllers\\DishesController.cs",
-              "ToolTip": "C:\\Projects\\Restaurants\\Restaurants.API\\Restaurants.API\\Controllers\\DishesController.cs",
-              "RelativeToolTip": "Restaurants.API\\Controllers\\DishesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABMAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\Restaurants\\Restaurants.API\\Restaurants.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Restaurants.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Projects\\Restaurants\\Restaurants.API\\Restaurants.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Restaurants.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T14:52:08.32Z",
+              "WhenOpened": "2025-10-29T19:00:26.157Z",
               "EditorCaption": ""
             }
           ]
